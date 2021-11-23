@@ -18,40 +18,40 @@ The local server must store the data of around 100 people where the allocated on
 
 # SWOT Analysis
 # STRENGTHS
-*Creating a database to vaccinate people based on their Aadhar.
-*Local vaccine centre database enabling smoother operation.
+* Creating a database to vaccinate people based on their Aadhar.
+* Local vaccine centre database enabling smoother operation.
 
 # WEAKNESSES
-*Aadhar linked phone number database not available.
-*OTP generation for verification is absent.
+* Aadhar linked phone number database not available.
+* OTP generation for verification is absent.
 
 # THREATS
-*Requires personal data of people and encryption of the data is not enabled in this program.
+* Requires personal data of people and encryption of the data is not enabled in this program.
 
 # OPPORTUNITIES
-*Tracking to determine the pace of vaccine deployment.
+* Tracking to determine the pace of vaccine deployment.
 
 # 4 W's and 1 H
 
 # Who
-*Patient who needs to be vaccinated.
+* Patient who needs to be vaccinated.
 # What
-*Verify the details of the patient using the alloted data.
+* Verify the details of the patient using the alloted data.
 # When
-*During the time alloted for vaccination.
+* During the time alloted for vaccination.
 # Where
-*Local vaccination centre.
+* Local vaccination centre.
 # How
-*Online registration and on field verification using local server.
+* Online registration and on field verification using local server.
 
 # High Level Requirements
-HR01 System should be able to access pre loaded registration data for verification.
-HR02 User should be able to add new registrations.
-HR03 System should recognize vaccinated patients.
+* HR01 System should be able to access pre loaded registration data for verification.
+* HR02 User should be able to add new registrations.
+* HR03 System should recognize vaccinated patients.
 
 # Low Level Requirement
-LR01 Only new user must be given an option to select vaccine type.
-LR02 Total quantity of vaccines used must be shown by EOD.
-LR03 Full list of patients vaccinated must be set as output.
+* LR01 Only new user must be given an option to select vaccine type.
+* LR02 Total quantity of vaccines used must be shown by EOD.
+* LR03 Full list of patients vaccinated must be set as output.
 
 
