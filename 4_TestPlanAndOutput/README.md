@@ -1,4 +1,5 @@
-# StepIN_VaccineRegist
+# TestPlane and Output
+
 ## High Level Test Plan
 | Test ID | Description | Input | Expected output | Actual Output |
 | --- | --- | --- | --- | --- |
