@@ -6,4 +6,5 @@
 
 # Low level Design
 ##  2.2 Data Flow Diagram 
-![str_low_level](https://user-images.githubusercontent.com/85119462/143187466-b82016e1-036f-4e0d-bd21-1bb505e4fb26.png
+![str_low_level](https://user-images.githubusercontent.com/85119462/143187678-87772176-2722-4f7b-a454-dd200c719317.png)
+
