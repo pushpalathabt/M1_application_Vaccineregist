@@ -6,6 +6,12 @@ Each vaccine centre will operate locally to register and allot vaccines. The bas
 
 The local server must store the data of around 100 people where the allocated online registration data will be loaded onto the local server of that local centre. Verification of the data is done based on the details provided by the patient. Once completed, the data of the vaccinated will be sent back for future use and reference.
 
+# Feature
+* Pre registered patients who had appointments verify the documents
+* Verification is done with pre registered data of patients
+* New registrations are added to the vaccinated log
+* Total number of vaccine vials consumed is tracked for both type of vaccines
+
 # Advantages
 * Smoother data handling.
 * Pre data readily available for verification.
