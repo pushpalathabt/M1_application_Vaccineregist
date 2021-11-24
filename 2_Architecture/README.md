@@ -1,5 +1,5 @@
 # Architecture
- In this folder it contain both the process and the product of planning,designing and structures.
+ In this folder it contain both the process and the product of planning,designing ,flowchart and structures.
 
 ## Folder Structure
 |Folder             | Description |
