@@ -1,9 +1,11 @@
 ## First output after runing makefile
-![p1](https://user-images.githubusercontent.com/85119462/143309422-d210ebd8-1024-462e-9059-15c0f5844ff9.JPG)
+![project1](https://user-images.githubusercontent.com/85119462/143309312-30a0cb68-3f04-4551-bed9-b0050a18bde5.JPG)
+
 
 
 ## It asks for details to registraion
-![project1](https://user-images.githubusercontent.com/85119462/143309312-30a0cb68-3f04-4551-bed9-b0050a18bde5.JPG)
+![p1](https://user-images.githubusercontent.com/85119462/143309422-d210ebd8-1024-462e-9059-15c0f5844ff9.JPG)
+
 
 ## After registration it ask for Aadhar number and phone number. if  both number mach to the details it ask for vaccine Select type 
 ![p2](https://user-images.githubusercontent.com/85119462/143309572-e998c384-af1b-44c3-940b-59391290876e.JPG)
