@@ -6,6 +6,12 @@ Each vaccine centre will operate locally to register and allot vaccines. The bas
 
 The local server must store the data of around 100 people where the allocated online registration data will be loaded onto the local server of that local centre. Verification of the data is done based on the details provided by the patient. Once completed, the data of the vaccinated will be sent back for future use and reference.
 
+# Feature
+* Pre registered patients who had appointments verify the documents
+* Verification is done with pre registered data of patients
+* New registrations are added to the vaccinated log
+* Total number of vaccine vials consumed is tracked for both type of vaccines
+
 # Advantages
 * Smoother data handling.
 * Pre data readily available for verification.
@@ -44,14 +50,23 @@ The local server must store the data of around 100 people where the allocated on
 # How
 * Online registration and on field verification using local server.
 
-# High Level Requirements
-* HR01 System should be able to access pre loaded registration data for verification.
-* HR02 User should be able to add new registrations.
-* HR03 System should recognize vaccinated patients.
+## High Level Requirements
+| ID | Description | Status (Implemented/Future) |
+| --- | --- | --- |
+| HR01 | System should be able to access pre loaded registration data for verification | Implemented |
+| HR02 | User should be able to add new registrations | Implemented |
+| HR03 | System should recognize vaccinated patients | Implemented |
+| HR04 | OTP generated verification for secure registration | Future |
+| HR05 | System should recognize invalid credentials | Future |
 
-# Low Level Requirement
-* LR01 Only new user must be given an option to select vaccine type.
-* LR02 Total quantity of vaccines used must be shown by EOD.
-* LR03 Full list of patients vaccinated must be set as output.
+
+## Low Level Requirement
+| ID | Description | Status (Implemented/Future) |
+| --- | --- | --- |
+| LR01 | Only new user must be given an option to select vaccine type | Implemented |
+| LR02 | Total quantity of vaccines used must be shown by EOD | Implemented |
+| LR03 | Full list of patients vaccinated must be set as output | Implemented |
+| LR04 | Remaining and present stock of vaccines must be tracked | Future |
+| LR05 | Vaccine vials must be tracked for its use within a day | Future |
 
 
