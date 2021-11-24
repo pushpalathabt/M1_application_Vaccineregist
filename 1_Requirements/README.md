@@ -44,14 +44,23 @@ The local server must store the data of around 100 people where the allocated on
 # How
 * Online registration and on field verification using local server.
 
-# High Level Requirements
-* HR01 System should be able to access pre loaded registration data for verification.
-* HR02 User should be able to add new registrations.
-* HR03 System should recognize vaccinated patients.
+## High Level Requirements
+| ID | Description | Status (Implemented/Future) |
+| --- | --- | --- |
+| HR01 | System should be able to access pre loaded registration data for verification | Implemented |
+| HR02 | User should be able to add new registrations | Implemented |
+| HR03 | System should recognize vaccinated patients | Implemented |
+| HR04 | OTP generated verification for secure registration | Future |
+| HR05 | System should recognize invalid credentials | Future |
 
-# Low Level Requirement
-* LR01 Only new user must be given an option to select vaccine type.
-* LR02 Total quantity of vaccines used must be shown by EOD.
-* LR03 Full list of patients vaccinated must be set as output.
+
+## Low Level Requirement
+| ID | Description | Status (Implemented/Future) |
+| --- | --- | --- |
+| LR01 | Only new user must be given an option to select vaccine type | Implemented |
+| LR02 | Total quantity of vaccines used must be shown by EOD | Implemented |
+| LR03 | Full list of patients vaccinated must be set as output | Implemented |
+| LR04 | Remaining and present stock of vaccines must be tracked | Future |
+| LR05 | Vaccine vials must be tracked for its use within a day | Future |
 
 
