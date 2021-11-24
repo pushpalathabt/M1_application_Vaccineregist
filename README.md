@@ -12,5 +12,8 @@ This is a C Programming vaccine registration application project. this project  
 | `6_Images and videos`|All project related images and videos|
 | `7_Other`| other related files|
 
-# Code Badges 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/6d21b22934e04538b8cc874aae377644)](https://www.codacy.com/gh/premalathabt/M1_application_Vaccineregist/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=premalathabt/M1_application_Vaccineregist&amp;utm_campaign=Badge_Grade)
+
+## About the code
+  | Code Badges  |    quality score  |   project quality |
+ |--|--|--|
+ | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/6d21b22934e04538b8cc874aae377644)](https://www.codacy.com/gh/premalathabt/M1_application_Vaccineregist/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=premalathabt/M1_application_Vaccineregist&amp;utm_campaign=Badge_Grade)| ![quality score](https://api.codiga.io/project/29962/score/svg)|![project quality](https://api.codiga.io/project/29962/status/svg) |
